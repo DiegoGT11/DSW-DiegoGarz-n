@@ -117,7 +117,7 @@ li{
     background-color: #485460;
     color: #ffffff;
     display: flex;
-    justify-content: left;
+    justify-content: center ;
     align-items: center;
     flex-direction: column;
 }

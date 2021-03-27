@@ -101,9 +101,12 @@ li{
 .content .article {
     background: #808e9b;
     padding: 20px;
-    margin-top: 5px;;
+    margin-top: 5px;
+    width: 90%;
+    max-width: 1000px;
     color: #dfe6e9;
     font-size: x-large;
+    justify-content: center
 }
 
 .content .article {
@@ -117,7 +120,7 @@ li{
     background-color: #485460;
     color: #ffffff;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
 }
