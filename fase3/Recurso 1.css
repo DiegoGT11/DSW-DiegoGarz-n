@@ -129,9 +129,8 @@ li{
     flex-direction: column;
 }
 
-.container .sidebar img{
-    clip-path: inset(0 40% 0 30%);
-    width: 360%;
-    margin-left: 138px;
+.sidebar .fb-page{
+    width: 80%;
+    height: 80%;
+    margin-top: 5px;
 }
-

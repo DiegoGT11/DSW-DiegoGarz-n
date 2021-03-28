@@ -112,6 +112,12 @@ li{
 .content .article h1{
     padding: 10px;
 }
+
+.content .article img{
+    margin: 1em auto;
+    margin-left: 270px;
+}
+
 .container .sidebar {
     grid-column: span 1;
     background-color: #485460;
