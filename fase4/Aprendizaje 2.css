@@ -140,7 +140,7 @@ li{
         text-align: center;
     }
 
-    .container .content {
+    .container .content{
         grid-column: 1/-1;
     }
 

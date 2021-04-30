@@ -140,11 +140,11 @@ li{
         text-align: center;
     }
 
-    .container .content {
+    .container .content{
         grid-column: 1/-1;
     }
 
-    .container .sidebar {
+    .container .sidebar{
         grid-column: 1/-1;
     }
 
