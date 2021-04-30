@@ -147,6 +147,10 @@ li{
     .container .sidebar {
         grid-column: 1/-1;
     }
+    
+    .container .sidebar img{
+        grid-column: 1/-1;
+    }
 
     .nav li {
         grid-column: 1/-1;

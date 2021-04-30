@@ -133,6 +133,10 @@ li{
         grid-column: 1/-1;
     }
 
+    .container .content2 {
+        grid-column: 1/-1;
+    }
+
     .container .sidebar {
         grid-column: 1/-1;
     }
